@@ -79,12 +79,6 @@ cd credit-scoring
 
 # Install required packages
 pip install pandas numpy matplotlib seaborn scikit-learn scipy tqdm
-```
-
-Or use a requirements file:
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
@@ -147,7 +141,6 @@ Linear Regression R²: 0.82
 ## 🔮 Future Enhancements
 
 - [ ] 🔧 **Hyperparameter Optimization**: GridSearchCV and RandomizedSearchCV
-- [ ] 🔍 **Model Explainability**: Integration with SHAP and LIME
 - [ ] 🌐 **Web Deployment**: Flask or Streamlit application
 - [ ] 📱 **Interactive Dashboard**: Real-time predictions with Plotly Dash
 - [ ] 🔄 **MLOps Pipeline**: Model versioning and monitoring
@@ -170,13 +163,6 @@ Linear Regression R²: 0.82
 **Sarra Safer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/sarrasafer)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 
 
 ## ⭐ Show Your Support
