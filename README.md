@@ -64,24 +64,6 @@ Test final models on separate datasets to ensure generalization and robustness.
 
 ---
 
-
-## 🚀 Installation
-
-### Prerequisites
-- Python 3.8 or higher
-- pip package manager
-
-### Setup
-```bash
-# Clone the repository
-git clone https://github.com/sarrasafer/credit-scoring.git
-cd credit-scoring
-
-# Install required packages
-pip install pandas numpy matplotlib seaborn scikit-learn scipy tqdm
-
----
-
 ## 💻 Usage
 
 ### Quick Start
